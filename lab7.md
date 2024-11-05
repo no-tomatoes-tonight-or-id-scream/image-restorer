@@ -7,7 +7,7 @@
 - 团队 ID：03
 - 团队名称：今晚没番茄否则我会吼叫
 - 组长博客和小组 GitHub 地址：[组长博客]() [小组 GitHub 地址](https://github.com/no-tomatoes-tonight-or-id-scream/image-restorer)
-- 小组成员：洪佳荣
+- 小组成员：洪佳荣、余毅臻
 
 ## 二、冲刺概况汇报（60分）
 
