@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "No Tomatoes Tonight or I'd Scream!"
-  text: "OUC Software Engineering"
+  name: "今晚没番茄否则我会吼叫！"
+  text: "软件工程"
   tagline: My great project tagline
   actions:
     - theme: brand
