@@ -4,7 +4,7 @@
 
 - 团队 ID：03
 - 团队名称：今晚没番茄否则我会吼叫
-- 项目博客和小组 GitHub 地址：[项目博客](https://no-tomatoes-tonight-or-id-scream.github.io/image-restorer/) [小组 GitHub 地址](https://github.com/no-tomatoes-tonight-or-id-scream/image-restorer)
+- 项目博客和小组 GitHub 地址：[项目博客](https://no-tomatoes-tonight-or-id-scream.github.io/image-restorer/) [小组 GitHub 地址](https://github.com/no-tomatoes-tonight-or-id-scream/image-restorer) [Alpha 1/4 分支](https://github.com/no-tomatoes-tonight-or-id-scream/image-restorer/tree/alpha-1/4)
 - 小组成员：洪佳荣、余毅臻、马俊飞、郝文轩
 
 ## 二、冲刺概况汇报（60 分）
@@ -19,7 +19,7 @@
 - 文字描述
   通过团队讨论确定了项目的具体需求和功能，使用 VitePress 搭建了项目网站，选择了项目的框架的备选方案，带领团队完善了用户故事。使用 Notion 记录了项目的敏捷开发过程。
 - 展示 Gitee 当日代码/文档签入记录
-  
+  ![1731146652480](https://github.com/user-attachments/assets/6655ffb7-28ca-4e01-b67a-1db4130e590e)
 - 接下来的计划
     - 梳理已有的框架的优缺点，确定最终的框架
     - 根据已有模型进行模型的选择，确定改良方向
@@ -98,10 +98,14 @@
 ## 三、冲刺成果展示（25 分）
 
 - 展示组内最新成果（可用图片、文字描述等任意形式，也可以是 B 站视频链接，不要贴代码）（15 分）
-    1. 项目网站：[https://no-tomatoes-tonight-or-id-scream.github.io/image-restorer/](https://no-tomatoes-tonight-or-id-scream.github.io/image-restorer/)
-    2. 项目仓库：[no-tomatoes-tonight-or-id-scream/image-restorer](https://github.com/no-tomatoes-tonight-or-id-scream/image-restorer)
-    3. 项目的 Notion 团队协作框架
+    1. 项目网站：[https://no-tomatoes-tonight-or-id-scream.github.io/image-restorer/](https://no-tomatoes-tonight-or-id-scream.github.io/image-restorer/) 
+        ![1731146652485](https://github.com/user-attachments/assets/423d1324-81df-4e7c-9493-6dc5cbfab7d3)
+    2. 项目仓库：[no-tomatoes-tonight-or-id-scream/image-restorer](https://github.com/no-tomatoes-tonight-or-id-scream/image-restorer) 
+        ![image](https://github.com/user-attachments/assets/3ce3c843-4462-455f-9299-53aaf1d5e3e7)
+    3. 项目的 Notion 团队协作框架 
+        ![image](https://github.com/user-attachments/assets/2b41c426-dcbc-43e8-a140-6c3fa1c4c4d2)
     4. 完善了用户故事，确定了项目需求：[Notion](https://juicy-request-03b.notion.site/1377b132f46f80bba5b7c3f3ff86bd2c?pvs=74)
 - 站立会议合照（5 分）
+    ![image](https://github.com/user-attachments/assets/f598b9b8-24ff-4468-90dd-0f73bb94af26)
 - 会议时间、地点、内容记录（5 分）
   2024 年 11 月 7 日下午 3:00，于 58 工坊开始了本次会议。会议内容主要包括了项目需求的讨论，项目背景与图像修复领域相关知识的介绍，项目框架的选择，用户故事的完善，以及项目的技术路线的探讨。
