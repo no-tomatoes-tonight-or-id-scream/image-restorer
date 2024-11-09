@@ -98,11 +98,11 @@
 ## 三、冲刺成果展示（25 分）
 
 - 展示组内最新成果（可用图片、文字描述等任意形式，也可以是 B 站视频链接，不要贴代码）（15 分）
-    1. 项目网站：[https://no-tomatoes-tonight-or-id-scream.github.io/image-restorer/](https://no-tomatoes-tonight-or-id-scream.github.io/image-restorer/) 
+    1. 项目网站：[https://no-tomatoes-tonight-or-id-scream.github.io/image-restorer/](https://no-tomatoes-tonight-or-id-scream.github.io/image-restorer/)
         ![1731146652485](https://github.com/user-attachments/assets/423d1324-81df-4e7c-9493-6dc5cbfab7d3)
-    2. 项目仓库：[no-tomatoes-tonight-or-id-scream/image-restorer](https://github.com/no-tomatoes-tonight-or-id-scream/image-restorer) 
+    2. 项目仓库：[no-tomatoes-tonight-or-id-scream/image-restorer](https://github.com/no-tomatoes-tonight-or-id-scream/image-restorer)
         ![image](https://github.com/user-attachments/assets/3ce3c843-4462-455f-9299-53aaf1d5e3e7)
-    3. 项目的 Notion 团队协作框架 
+    3. 项目的 Notion 团队协作框架
         ![image](https://github.com/user-attachments/assets/2b41c426-dcbc-43e8-a140-6c3fa1c4c4d2)
     4. 完善了用户故事，确定了项目需求：[Notion](https://juicy-request-03b.notion.site/1377b132f46f80bba5b7c3f3ff86bd2c?pvs=74)
 - 站立会议合照（5 分）
