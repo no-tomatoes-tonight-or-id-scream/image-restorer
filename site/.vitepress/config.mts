@@ -23,7 +23,7 @@ const vitePressOptions = {
     ],
 
     socialLinks: [
-      { icon: "github", link: "https://github.com/vuejs/vitepress" },
+      { icon: "github", link: "https://github.com/no-tomatoes-tonight-or-id-scream/image-restorer" },
     ],
   },
 };
