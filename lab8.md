@@ -12,20 +12,37 @@
 ### 洪佳荣
 
 - 过去完成了哪些任务
+    - 建立看板
     - 确定项目前后端技术栈、框架
     - 确定使用的机器学习模型
     - 带领团队制作前后端原型
 - 文字描述
+
+    将看板从 Notion 迁移至 GitHub Projects，方便团队成员查看任务进度。
+
+    本周在 GitHub 找到两个开源的项目，作为我们项目的参考项目，分别是 [Final2x](https://github.com/Tohrusky/Final2x) 和 [Upscayl](https://github.com/upscayl/upscayl)。这两个项目都是基于一些现有的超分模型，通过超分实现通用的图像修复。项目的 GUI 均是使用 Electron 实现的，这对我们的项目有很大的参考意义。基于这两个项目我们开始了后端的研究和代码接口的设计。
+
+    前端参考的是 [WeTransfer](https://wetransfer.com/) 的界面设计，这个网站的界面设计非常简洁，用户体验也很好。由于我们的项目功能也是相对比较简单的，所以我们决定参考这个网站的界面设计。
   
 - 展示 Gitee 当日代码/文档签入记录
   
+  ![commits](assets/2024-11-17-19-25-19.png)
+  
 - 接下来的计划
+
+  测试接口，完善后端代码。
 
 - 还剩下哪些任务
 
+  暂未优化后端的多用户支持和并行处理。
+
 - 遇到了哪些困难
 
+  需要一个后端设计规范，以便于团队成员之间的协作。
+
 - 有哪些收获和疑问
+
+  了解了一些现有的超分项目，对我们的项目有了更深的理解。
 
 ### 马俊飞
 
@@ -34,7 +51,7 @@
     - 完成项目原型的确定。
     - 开始着手对分配的任务进行开发。  
 - 文字描述
-    - 参与探讨了项目的技术栈，前端使用Vue3框架开发，后端使用Flask框架设计。
+    - 参与探讨了项目的技术栈，前端使用 Vue3 框架开发，后端使用 Flask 框架设计。
     - 参与确定了当前项目的简单初步原型
     - 所分配的任务是前端开发，进一步分工为图片上传和选项菜单，对此进行了初步的开发。
 - 展示 Gitee 当日代码/文档签入记录
@@ -84,11 +101,11 @@
     - 完成项目原型的确定。
     - 开始着手对分配的任务进行开发。
 - 文字描述
-    - 和项目组成员在第二次迭代例行会议中探讨了本项目的技术栈，前端使用Vue3框架开发，后端使用Flask框架设计。
-    - 在团队协作下，快速确定了当前项目的原型设计，使用PowerPoint对项目的原型进行简单的绘制。
+    - 和项目组成员在第二次迭代例行会议中探讨了本项目的技术栈，前端使用 Vue3 框架开发，后端使用 Flask 框架设计。
+    - 在团队协作下，快速确定了当前项目的原型设计，使用 PowerPoint 对项目的原型进行简单的绘制。
     - 本次所分配的任务是前端，并对该分工任务和团队成员进一步细化分工。
 - 展示 Github 当日代码/文档签入记录
-  ![2024-11-07 224430.png](https://github.com/Ngaizean/test/blob/main/2.png)
+  ![commits](assets/2024-11-17-19-15-35.png)
 - 接下来的计划
     - 完成项目的下一轮迭代。
     - 对整体前端的设计有个大致雏形的搭建。
@@ -107,12 +124,9 @@
 - 展示组内最新成果（可用图片、文字描述等任意形式，也可以是 B 站视频链接，不要贴代码）（15 分）
     1. 项目网站：[https://no-tomatoes-tonight-or-id-scream.github.io/image-restorer/](https://no-tomatoes-tonight-or-id-scream.github.io/image-restorer/)
         ![1731146652485](https://github.com/user-attachments/assets/423d1324-81df-4e7c-9493-6dc5cbfab7d3)
-    2. 项目仓库：[no-tomatoes-tonight-or-id-scream/image-restorer](https://github.com/no-tomatoes-tonight-or-id-scream/image-restorer)
-        ![image](https://github.com/user-attachments/assets/3ce3c843-4462-455f-9299-53aaf1d5e3e7)
-    3. 项目的 Notion 团队协作框架
-        ![image](https://github.com/user-attachments/assets/2b41c426-dcbc-43e8-a140-6c3fa1c4c4d2)
-    4. 完善了用户故事，确定了项目需求：[Notion](https://juicy-request-03b.notion.site/1377b132f46f80bba5b7c3f3ff86bd2c?pvs=74)
+    2. 项目看板：![Project](assets/2024-11-17-19-30-51.png)
+    3. 前端示意图：![fe1](assets/2024-11-17-19-31-09.png) ![fe2](assets/2024-11-17-19-31-25.png)
 - 站立会议合照（5 分）
-    ![image](https://github.com/user-attachments/assets/f598b9b8-24ff-4468-90dd-0f73bb94af26)
+    ![合照](assets/2024-11-17-19-16-28.png)
 - 会议时间、地点、内容记录（5 分）
-  2024 年 11 月 7 日下午 3:00，于 58 工坊开始了本次会议。会议内容主要包括了项目需求的讨论，项目背景与图像修复领域相关知识的介绍，项目框架的选择，用户故事的完善，以及项目的技术路线的探讨。
+  2024 年 11 月 14 日晚上 20:00，于 58 工坊开始了本次会议。会议内容主要包括了前后端分工、前后端原型和参考项目的讨论，着手项目的下一轮迭代。
