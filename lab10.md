@@ -4,7 +4,7 @@
 
 - 团队 ID：03
 - 团队名称：今晚没番茄否则我会吼叫
-- 项目博客和小组 GitHub 地址：[项目博客](https://no-tomatoes-tonight-or-id-scream.github.io/image-restorer/) [小组 GitHub 地址](https://github.com/no-tomatoes-tonight-or-id-scream/image-restorer) [Alpha 3/4 分支](https://github.com/no-tomatoes-tonight-or-id-scream/image-restorer/tree/alpha-3/4)
+- 项目博客和小组 GitHub 地址：[项目博客](https://no-tomatoes-tonight-or-id-scream.github.io/image-restorer/) [小组 GitHub 地址](https://github.com/no-tomatoes-tonight-or-id-scream/image-restorer) [Alpha 4/4 分支](https://github.com/no-tomatoes-tonight-or-id-scream/image-restorer/tree/alpha-4/4)
 - 小组成员：洪佳荣、余毅臻、马俊飞、郝文轩
 
 ## 二、冲刺概况汇报（60 分）
