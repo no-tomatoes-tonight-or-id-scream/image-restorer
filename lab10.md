@@ -124,7 +124,7 @@
   1. 项目网站：[https://no-tomatoes-tonight-or-id-scream.github.io/image-restorer/](https://no-tomatoes-tonight-or-id-scream.github.io/image-restorer/)
      ![1731146652485](https://github.com/user-attachments/assets/423d1324-81df-4e7c-9493-6dc5cbfab7d3)
   2. 项目看板：![Project](assets/kanban.png)
-  3. 前端示意图：![fe1](assets/fr1.png) ![fe2](assets/2024-11-17-19-31-25.png)
+  3. 前端示意图：![fe1](assets/tempdemo-2024-12-03-1.png) ![fe2](assets/tempdemo-2024-12-03-2.png) ![fe3](assets/tempdemo-2024-12-03-3.png) ![fe4](assets/tempdemo-2024-12-03-4.png)
 - 站立会议合照（5 分）
   ![合照](assets/hezhao.png)
 - 会议时间、地点、内容记录（5 分）
