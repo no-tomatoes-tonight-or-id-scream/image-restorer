@@ -1,10 +1,10 @@
-# 实验 10：【Alpha 4/4】项目 Alpha 冲刺
+# 实验 11：【Beta 1/3】项目 Beta 冲刺
 
 ## 一、基本情况（15 分）
 
 - 团队 ID：03
 - 团队名称：今晚没番茄否则我会吼叫
-- 项目博客和小组 GitHub 地址：[项目博客](https://no-tomatoes-tonight-or-id-scream.github.io/image-restorer/) [小组 GitHub 地址](https://github.com/no-tomatoes-tonight-or-id-scream/image-restorer) [Alpha 4/4 分支](https://github.com/no-tomatoes-tonight-or-id-scream/image-restorer/tree/alpha-4/4)
+- 项目博客和小组 GitHub 地址：[项目博客](https://no-tomatoes-tonight-or-id-scream.github.io/image-restorer/) [小组 GitHub 地址](https://github.com/no-tomatoes-tonight-or-id-scream/image-restorer) [Beta 1/3 分支](https://github.com/no-tomatoes-tonight-or-id-scream/image-restorer/tree/beta-1/3)
 - 小组成员：洪佳荣、余毅臻、马俊飞、郝文轩
 
 ## 二、冲刺概况汇报（60 分）
@@ -89,17 +89,17 @@
   噪声图样例生成效率太低，数据单一
 - 有哪些收获和疑问
   - 对前后端分离的开发有了进一步的实战经验
-  - foolbox使用更加熟练
+  - foolbox 使用更加熟练
 
 ### 余毅臻
 
 - 过去完成了哪些任务
   - 对网页的背景进行进一步的优化
-  - 修复一些在新增功能中暴露出的Bug
-  - 搭建Vue-router功能，实现网页的跳转
+  - 修复一些在新增功能中暴露出的 Bug
+  - 搭建 Vue-router 功能，实现网页的跳转
 - 文字描述
   - 过去的背景是静态的，只是选取五个颜色进行展示，不能很好适应图片展示时的过渡。因此新增一个功能：将图片缩小并使用高斯模糊化后选取五个像素点进行取色，形成一个新的背景，这样能够和图片的衔接比较自然
-  - 修复了一些bug：程序中出现Vue2语法导致功能不能启用；路由通信不能直接传file类型文件，改用URL；图片上下两翼的阴影因遮罩层的剪裁而被隐藏；二次提交导致的通信失灵的问题等等
+  - 修复了一些 bug：程序中出现 Vue2 语法导致功能不能启用；路由通信不能直接传 file 类型文件，改用 URL；图片上下两翼的阴影因遮罩层的剪裁而被隐藏；二次提交导致的通信失灵的问题等等
   - 用户点击提交后的加载页面，将其优化至图片容器中，而不是全屏覆盖
 - 展示 Github 当日代码/文档签入记录
   ![yyz_commitPic](assets/2024-12-2-11-30-00.png)
@@ -115,17 +115,14 @@
   - 对前端的定位和容器的设计不了解，导致调整布局花费较较长时间
 - 收获和疑问
   - 熟悉掌握 UI 设计的样式微调
-  - 学会了如何使用Vue-router搭建网页的跳转路由
+  - 学会了如何使用 Vue-router 搭建网页的跳转路由
   - 与团队成员的互相协作进一步磨合
 
 ## 三、冲刺成果展示（25 分）
 
 - 展示组内最新成果（可用图片、文字描述等任意形式，也可以是 B 站视频链接，不要贴代码）（15 分）
-  1. 项目网站：[https://no-tomatoes-tonight-or-id-scream.github.io/image-restorer/](https://no-tomatoes-tonight-or-id-scream.github.io/image-restorer/)
-     ![1731146652485](https://github.com/user-attachments/assets/423d1324-81df-4e7c-9493-6dc5cbfab7d3)
-  2. 项目看板：![Project](assets/kanban.png)
-  3. 前端示意图：![fe1](assets/tempdemo-2024-12-03-1.png) ![fe2](assets/tempdemo-2024-12-03-2.png) ![fe3](assets/tempdemo-2024-12-03-3.png) ![fe4](assets/tempdemo-2024-12-03-4.png)
+  1. 项目网站：
 - 站立会议合照（5 分）
-  ![合照](assets/hezhao.png)
+  ![hezhao](assets/044ECC78-60FC-489D-A3A9-10F1B618833E_1_105_c.jpeg)
 - 会议时间、地点、内容记录（5 分）
-  2024 年 11 月 28 日下午 16:00，于 58 工坊开始了本次会议。会议内容主要包括了下一步规划和看板任务的完善。由于郝文轩同学在外地无法赶回，故线上参会。
+  2024 年 12 月 12 日下午 16:30，于 58 工坊开始了本次会议。会议内容主要包括了对 alpha 迭代的总结和下一步的项目计划。
