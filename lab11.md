@@ -9,22 +9,28 @@
 
 ## 二、冲刺概况汇报（60 分）
 
+### Alpha 阶段问题总结随笔
+
+[Alpha 阶段问题总结随笔](https://no-tomatoes-tonight-or-id-scream.github.io/image-restorer/blog/Alpha%20%E9%98%B6%E6%AE%B5%E9%97%AE%E9%A2%98%E6%80%BB%E7%BB%93%E9%9A%8F%E7%AC%94.html)
+
 ### 洪佳荣
 
 - 过去完成了哪些任务
   - 进一步带领小组完善用户体验设计
+  - 完成 Alpha 阶段问题总结随笔
   - 完成进度汇报
 - 文字描述
 
-  进一步解决看板上的问题，完善布局。准备进度汇报的 PPT 和内容等。
+  进一步解决看板上的问题，完善布局，寻找测试用户进行评估。准备进度汇报的 PPT 和内容等。
+  对前端项目使用 GitHub Action 和 GitHub Pages 更新了持续集成。
 
 - 展示 Gitee 当日代码/文档签入记录
 
-  ![commits](assets/2024-12-02-10-34-58.png)
+  ![commits](assets/image.png)
 
 - 接下来的计划
 
-  继续完成看板上的剩余任务。
+  继续完成 Issue 中尚未解决的问题或提升。
 
 - 还剩下哪些任务
 
